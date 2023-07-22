@@ -1,0 +1,11 @@
+{
+  "name": "JRC Board LCD Keypad Sheild",
+  "version": "0.0.1b",
+  "dependencies": [
+    {
+      "owner": "arduino-libraries",
+      "name": "LiquidCrystal",
+      "version": "^1.0.7"
+    }
+  ]
+}

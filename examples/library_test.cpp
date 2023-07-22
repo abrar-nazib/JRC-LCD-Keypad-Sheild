@@ -1,8 +1,8 @@
 // Sample using LiquidCrystal library
 #include <LiquidCrystal.h>
 #include <Arduino.h>
-#include "JRC.h"
-#include "JRC_LCDShield.h"
+#include <JRC.h>
+#include <JRC_LCDShield.h>
 
 JRC_LCDSheild lcdShield;
 LiquidCrystal lcd = lcdShield.screen;
