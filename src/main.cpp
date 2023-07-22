@@ -26,6 +26,7 @@ void loop()
   lcd.setCursor(0, 1);
   lcd.print(lcdShield.getPressedButtonStr());
   delay(150);
+  // Development will be done in this repository
 }
 
 // to clear the LCD display, use the comment below
